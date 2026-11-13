@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let target= document.querySelector(".level");
+let target= document.querySelector("#level");
 
 let count= 0;
 let current= target;
